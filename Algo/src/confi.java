@@ -5,10 +5,10 @@ import java.sql.SQLException;
 
 public class confi {
 
-	public static String databasename = "db_359466_1";
+	public static String databasename = "db_35946_1";
 	public static String dburl = "mysql://dogsitting-rhein-main.lima-db.de:3306/" + databasename;
-	public static String dbuser = "USER359466";
-	public static String dbpwd = "aMp42GQ2v";
+	public static String dbuser = "";
+	public static String dbpwd = "";
 
 	// Weitere URLs
 	public static String URLCreateBackUp = "http://172.16.0.76/projektwoche/java.php";
